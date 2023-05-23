@@ -1,6 +1,6 @@
 ### Maintenance
 
-Singer Model 66 machines, if made in the modern day, would probably classify as light industrial machines.  They are made almost exclusively of metal and given the right care, can have a lifespan measured in centuries. In contrast most modern home sewing machines have key parts made of plastic and consequently, have lifespans measured in mere years.
+Singer Model 66 machines, if made in the modern day, would probably classify as light industrial machines.  They are made almost exclusively of metal and given the right care, can have a lifespan measured in centuries. In contrast, most modern home sewing machines have key parts made of plastic and consequently, have lifespans measured in mere years.
 
 #### Oil
 

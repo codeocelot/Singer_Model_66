@@ -8,9 +8,9 @@ Luckily, Model 66 machines are built very well by modern standards, and it's unl
 
 My machine did not come with a bobbin nor a sliding cover for where the bobbin goes. Luckily these are readily replacable parts.  Sliding covers can be purchased online from Central Michigan Sewing Supplies or elsewhere.  You should also check to ensure you have a sliding cover 'spring'-- in actuality it's a mostly flat bar, afixed to the base of the machine and who's ends bent upwards into grooves in the sliding cover. It can be very tricky to get the spring's ends to fit into the cover's grooves.
 
-Fun fact, apparently the Model 66 revolutionized and ushered in modern bobbin designs. Go into any sewing or fabric store and you'll readily find 'Class 66' bobbins.  All of them (as far as I know) will fit into your machine.  You'll probably want more than one, since you'll probably want to use more than one type or colour of thread. 
+Interestingly, the Model 66 revolutionized and ushered in modern bobbin designs. Go into any sewing or fabric store and you'll readily find 'Class 66' bobbins.  All of them (as far as I know) will fit into your machine.  You'll probably want more than one, since you'll probably want to use more than one type or colour of thread.
 
-# TODO: explain how to reattach slide cover
+Replacing the slide cover can be a little tricky when getting the spring arms into their grooves. I find it easiest to hold the cover to the right of where it goes, at an angle pointing upwards to the right. With the grooves close to the spring arms, use an old bobby pin or similar to gentley push the arms into place.  Then carefully lower and push the cover leftwards into place. This can be especially tricky if you've just replaced the spring, but keep at it, and it should eventually work. 
 
 
 ### Online Stores

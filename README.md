@@ -14,6 +14,10 @@ This project is written in Markdown, hosted on Github and compiles to a number o
 
 This guide is divided into logical sections. We start by discussing sourcing and buying a machine, determining what parts are possibly missing or need replacement and continue into using the machine in a number of different ways.
 
+## Licence
+
+This project is licenced for use under the MIT licence. In layman's terms, this a permissive license to use, modify, edit, remix, and host any of this content. All I ask (and the licence requires) is that you provide attribution back to this project. A simple link is sufficient.
+
 ## Build Project
 
 ```shell

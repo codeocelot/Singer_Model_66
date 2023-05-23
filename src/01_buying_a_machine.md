@@ -28,4 +28,6 @@ All Model 66s can be manually controlled by rotating the balance wheel.  Machine
 
 Model 66 machines were shipped from the factory in a plethora of different boxes and cabinets, ranging from simple wooden frames to extensive home sewing desks and even industrial purpose sewing tables. If your machine comes with an original housing and it fits in your space, you should try to keep the machine in its original home. Cabinets made for these machines are usually made of good quality materials and are of high quality. It's unlikely you'll build something better, and, unlike modern table-top machines, you'll need a cabinet of some kind for the machine to work.
 
-If you bought your machine without a case, not all is lost. Building a simple wooden housing for your machine is fairly straight-forward with basic wood-working stills. All that's required is a simple housing that will support your machine and allow the levers under the machine to move freely throughout their entire range of motion.
+I've had great success restoring my cabinet with Restor-A-Finish and a fine steel wool.
+
+If you bought your machine without a case, not all is lost. Building a simple wooden housing for your machine should be fairly straight-forward with basic wood-working stills. All that's required is a simple housing that will support your machine and allow the levers under the machine to move freely throughout their entire range of motion.
